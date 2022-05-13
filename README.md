@@ -24,6 +24,8 @@ Inicio
            senao 
              escreva(\nVoce nao tem direito a vaga preferencial.)
            FimSe
+         FimSe 
+
 Fim           
         
      
