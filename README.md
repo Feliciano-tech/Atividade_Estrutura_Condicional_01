@@ -28,7 +28,7 @@ Fim
         
      
   
-![fluxograma]() 
+![fluxograma](https://github.com/Feliciano-tech/Atividade_Estrutura_Condicional_01/blob/main/Fluxograma_atividade_01.png) 
                       
         
    
